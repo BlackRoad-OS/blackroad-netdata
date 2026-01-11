@@ -1,3 +1,28 @@
+<div align="center">
+
+# 🛣️ BlackRoad OS Integration
+
+<p align="center">
+  <a href="https://blackroad.io"><img src="https://img.shields.io/badge/BlackRoad-OS-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Y1QTYyMyIgZD0iTTEyIDJMMyAyMGgxOEwxMiAyeiIvPjwvc3ZnPg==" alt="BlackRoad OS"></a>
+  <a href="https://github.com/BlackRoad-OS"><img src="https://img.shields.io/badge/Org-BlackRoad--OS-F5A623?style=for-the-badge" alt="BlackRoad-OS"></a>
+  <a href="https://blackroad.io"><img src="https://img.shields.io/badge/Website-blackroad.io-FF1D6C?style=for-the-badge" alt="Website"></a>
+</p>
+
+<p align="center">
+  <strong>Part of the BlackRoad OS Infrastructure</strong><br>
+  <em>Building the future of decentralized systems</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/BlackRoad-OS/blackroad-netdata?style=flat-square&color=9C27B0" alt="License">
+  <img src="https://img.shields.io/github/stars/BlackRoad-OS/blackroad-netdata?style=flat-square&color=F5A623" alt="Stars">
+  <img src="https://img.shields.io/github/forks/BlackRoad-OS/blackroad-netdata?style=flat-square&color=2979FF" alt="Forks">
+</p>
+
+---
+
+</div>
+
 <p align="center">
 <a href="https://www.netdata.cloud#gh-light-mode-only">
   <img src="https://www.netdata.cloud/img/readme-images/netdata_readme_logo_light.png" alt="Netdata" width="300"/>
@@ -510,3 +535,21 @@ The Netdata ecosystem includes:
     * [Netdata Cloud UI License](https://app.netdata.cloud/LICENSE.txt)
     * [Netdata UI third-party licenses](https://app.netdata.cloud/3D_PARTY_LICENSES.txt)
 * **Netdata Cloud** – Closed-source, with free and paid tiers. Adds remote access, SSO, scalability.
+
+---
+
+<div align="center">
+
+## 🖤 BlackRoad OS Integration
+
+This project is part of the **BlackRoad OS** ecosystem - a comprehensive platform for decentralized infrastructure, AI systems, and next-generation computing.
+
+<p>
+  <a href="https://blackroad.io">🌐 blackroad.io</a> •
+  <a href="https://github.com/BlackRoad-OS">📦 GitHub</a> •
+  <a href="mailto:blackroad.systems@gmail.com">📧 Contact</a>
+</p>
+
+**© 2026 BlackRoad OS, Inc. All rights reserved.**
+
+</div>
